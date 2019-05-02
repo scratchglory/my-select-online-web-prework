@@ -1,5 +1,7 @@
 require 'pry'
 
 def my_select(collection)
- binding.pry
+ 
+ 
+# binding.pry
 end
